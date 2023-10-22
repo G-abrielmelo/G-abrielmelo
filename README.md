@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil 😁
-
+me chamo Gabriel e estou me aventurando pelo mundo da programação
  <div>
    <a href="https://github.com/G-abrielmelo">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=G-abrielmelo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
